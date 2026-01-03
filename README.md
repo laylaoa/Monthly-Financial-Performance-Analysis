@@ -7,7 +7,7 @@ Most financial dashboards stop at what happened.
 
 This project goes further to explain why it happened.
 
-Using a structured variance analysis approach, this case study decomposes financial performance into volume, efficiency, and cost-driver effects**, turning raw numbers into decision-ready insights.
+Using a structured variance analysis approach, this case study decomposes financial performance into volume, efficiency, and cost-driver effects, turning raw numbers into decision-ready insights.
 
 ##  Core analytical questions answered
 
@@ -20,7 +20,7 @@ This project was built to answer four executive-level questions:
 
 ## Key insights
 
-## 1. Revenue variance is structurally concentrated — not random
+## 1. Revenue variance is structurally concentrated, not random
 
 * Revenue variance analysis by **region and department** shows that underperformance clusters in specific combinations, rather than being evenly distributed.
 * This immediately signals **structural issues**, not temporary noise.
@@ -32,12 +32,12 @@ This project was built to answer four executive-level questions:
 
 * Variance was intentionally decomposed into:
 
-  * Volume-driven effects (changes in activity levels)
-  * Efficiency-driven effects (cost per unit behavior)
+* Volume-driven effects (changes in activity levels)
+* Efficiency-driven effects (cost per unit behavior)
 
 This avoids a common mistake: blaming teams for efficiency issues that are actually volume-related.
 
-**Insight:** Some negative variances disappear once normalized for volume — proving performance wasn’t operationally weak, just under-utilized.
+**Insight:** Some negative variances disappear once normalized for volume, proving performance wasn’t operationally weak, just under-utilized.
 
 ### 3️. Cost per unit remains flat across volume which is a quiet red flag
 
@@ -84,13 +84,13 @@ Analytical techniques:
 
 ## What this project demonstrates
 
-✔ Strong finance fundamentals
-✔ Business-first analytical thinking
-✔ Ability to translate numbers into strategy
-✔ Clean, interview-ready storytelling
-✔ Real-world FP&A and Finance Partner mindset
+* Strong finance fundamentals
+* Business-first analytical thinking
+* Ability to translate numbers into strategy
+* Clean, interview-ready storytelling
+* Real-world FP&A and Finance Partner mindset
 
-This is not a charting exercise — it’s a decision-support analysis.
+This is not a charting exercise, it’s a decision-support analysis.
 
 
 *Built as part of a personal portfolio to demonstrate applied financial analysis skills in a real-world context.*
