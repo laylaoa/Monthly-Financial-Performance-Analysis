@@ -5,9 +5,9 @@ A finance-forward analytical case study focused on variance decomposition, cost 
 
 Most financial dashboards stop at what happened.
 
-This project goes further — it explains **why it happened**.
+This project goes further to explain why it happened.
 
-Using a structured variance analysis approach, this case study decomposes financial performance into **volume, efficiency, and cost-driver effects**, turning raw numbers into **decision-ready insights**.
+Using a structured variance analysis approach, this case study decomposes financial performance into volume, efficiency, and cost-driver effects**, turning raw numbers into decision-ready insights.
 
 ##  Core analytical questions answered
 
@@ -22,7 +22,7 @@ This project was built to answer four executive-level questions:
 
 ## 1. Revenue variance is structurally concentrated — not random
 
-* Revenue variance analysis by **region and department** shows that underperformance clusters in **specific combinations**, rather than being evenly distributed.
+* Revenue variance analysis by **region and department** shows that underperformance clusters in specific combinations, rather than being evenly distributed.
 * This immediately signals **structural issues**, not temporary noise.
 * The dashboard highlights the **three worst-performing units**, forcing prioritization instead of broad, unfocused action.
 
