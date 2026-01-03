@@ -32,8 +32,8 @@ This project was built to answer four executive-level questions:
 
 * Variance was intentionally decomposed into:
 
-  * **Volume-driven effects** (changes in activity levels)
-  * **Efficiency-driven effects** (cost per unit behavior)
+  * Volume-driven effects (changes in activity levels)
+  * Efficiency-driven effects (cost per unit behavior)
 
 This avoids a common mistake: blaming teams for efficiency issues that are actually volume-related.
 
@@ -61,13 +61,13 @@ By grouping operations into **volume buckets**, we found:
 
 **Insight:** Cost inefficiency at low volumes is structural, not managerial. Decisions here should be strategic (consolidation, automation, or minimum-volume thresholds).
 
-## 📈 Visualizations included
+## Visualizations included
 * Revenue Variance by Region & Department (with worst performers highlighted)
 * Cost per Unit vs Activity Volume (with trend interpretation)
 * Cost Driver Composition by Volume Bucket (stacked analysis)
 * Volume-based segmentation to isolate structural cost behavior
 
-## 🛠️ Tools & techniques
+## Tools & techniques
 
 * **Python**
 * **Pandas** — data transformation, grouping, variance calculations
@@ -82,7 +82,7 @@ Analytical techniques:
 * Bucketing and normalization
 * Executive-focused data storytelling
 
-## 🧩 What this project demonstrates
+## What this project demonstrates
 
 ✔ Strong finance fundamentals
 ✔ Business-first analytical thinking
@@ -90,7 +90,7 @@ Analytical techniques:
 ✔ Clean, interview-ready storytelling
 ✔ Real-world FP&A and Finance Partner mindset
 
-This is not a charting exercise — it’s a **decision-support analysis**.
+This is not a charting exercise — it’s a decision-support analysis.
 
 
 *Built as part of a personal portfolio to demonstrate applied financial analysis skills in a real-world context.*
